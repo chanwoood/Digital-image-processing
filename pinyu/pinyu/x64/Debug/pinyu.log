@@ -1,0 +1,3 @@
+﻿  gaussianblur.cpp
+c:\users\aa\source\repos\pinyu\pinyu\gaussianblur.cpp(38): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  pinyu.vcxproj -> C:\Users\aa\source\repos\pinyu\x64\Debug\pinyu.exe
