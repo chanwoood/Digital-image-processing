@@ -1,5 +1,5 @@
 # Digital-image-processing-
-数字图像处理 VS2017 + OpenCV 在 win10 专业版编程实现
+数字图像处理 VS2017 + OpenCV3 在 win10 专业版编程实现
 - duibidu
 对比度拉伸
 - duishu
